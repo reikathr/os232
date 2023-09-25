@@ -11,5 +11,7 @@ An article with Linux commands. It seems interesting to me because it explains t
 * [Cybersecurity: Crash Course Computer Science](https://youtu.be/bPVaOlJ6ln0?si=ear9XXCWrUTzO0rb) --- Another video by Crash Course, this time on cybersecurity. Again, I like the way the present the topic.
 * [DDoS Attack Explained](https://youtu.be/ilhGh9CEIwM?si=gfegXHjWY6L72Km2) --- A video about DDoS attacks. Short, concise, informative, with explanations that are easy to digest.
 * [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g?si=qrZKbjprYj_E_L8H) --- A short video about Bash. It helped me understand it a little better.
+* [Files & File Systems: Crash Course Computer Science](https://youtu.be/KN8YgJnShPM?si=B9iMgSPPwIZc0SvZ) --- A crash course video on files and file systems. Really helpful for understanding the concept.
+* [Linux Directory Structure](https://www.geeksforgeeks.org/linux-directory-structure/) --- Helpful link that explains the Linux file system, focusing on its directory structure. 
 <br>
 <hr>
