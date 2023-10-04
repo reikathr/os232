@@ -12,6 +12,7 @@ An article with Linux commands. It seems interesting to me because it explains t
 * [DDoS Attack Explained](https://youtu.be/ilhGh9CEIwM?si=gfegXHjWY6L72Km2) --- A video about DDoS attacks. Short, concise, informative, with explanations that are easy to digest.
 * [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g?si=qrZKbjprYj_E_L8H) --- A short video about Bash. It helped me understand it a little better.
 * [Files & File Systems: Crash Course Computer Science](https://youtu.be/KN8YgJnShPM?si=B9iMgSPPwIZc0SvZ) --- A crash course video on files and file systems. Really helpful for understanding the concept.
-* [Linux Directory Structure](https://www.geeksforgeeks.org/linux-directory-structure/) --- Helpful link that explains the Linux file system, focusing on its directory structure. 
+* [Linux Directory Structure](https://www.geeksforgeeks.org/linux-directory-structure/) --- Helpful link that explains the Linux file system, focusing on its directory structure.
+* [Virtual vs Physical Addresses](https://web.cs.wpi.edu/~cs3013/a06/week4-paging.pdf) --- Explains virtual and physical addressing concisely. 
 <br>
 <hr>

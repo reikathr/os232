@@ -51,3 +51,15 @@ ZCZC W03 60 L32 Youtube: watching OS related topics
 ZCZC W03 15 L41 TXT/mylog.txt related
 ZCZC W03 10 L43 TXT/myrank.tex related, including peer review
 ZCZC W03 10 L44 TXT/myscript.sh related
+ZCZC W04 40 L00 General
+ZCZC W04 30 L01 SCELE related
+ZCZC W04 100 L02 Classroom related
+ZCZC W04 5 L03 Github and git related
+ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 20 L07 Demo related
+ZCZC W04 50 L08 OS Chat related with friends
+ZCZC W04 80 L14 Assignment #4
+ZCZC W04 10 L23 Bash, Regex, SED, AWK
+ZCZC W04 60 L32 Youtube: watching OS related topics
+ZCZC W04 15 L41 TXT/mylog.txt related
+ZCZC W04 10 L43 TXT/myrank.tex related, including peer review
