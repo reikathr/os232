@@ -63,3 +63,16 @@ ZCZC W04 10 L23 Bash, Regex, SED, AWK
 ZCZC W04 60 L32 Youtube: watching OS related topics
 ZCZC W04 15 L41 TXT/mylog.txt related
 ZCZC W04 10 L43 TXT/myrank.tex related, including peer review
+ZCZC W05 40 L00 General
+ZCZC W05 30 L01 SCELE related
+ZCZC W05 100 L02 Classroom related
+ZCZC W05 5 L03 Github and git related
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 70 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 20 L07 Demo related
+ZCZC W05 50 L08 OS Chat related with friends
+ZCZC W05 70 L15 Assignment #5
+ZCZC W05 10 L23 Bash, Regex, SED, AWK
+ZCZC W05 70 L32 Youtube: watching OS related topics
+ZCZC W05 15 L41 TXT/mylog.txt related
+ZCZC W05 10 L43 TXT/myrank.tex related, including peer review
